@@ -36,9 +36,3 @@ It's a tool used to install Android software updates from recovery, official TWR
 ## Credits
 - **Team Win Recovery Project (TWRP)**
 - **LineageOS Community**
-- Device testing by **@CreeperGuy0842**
-
----
-
-**Enjoy!**
-If this helped you, consider giving the repo a ⭐ on GitHub!
