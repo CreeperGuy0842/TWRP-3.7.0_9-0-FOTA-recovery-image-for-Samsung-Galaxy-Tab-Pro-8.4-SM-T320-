@@ -18,7 +18,7 @@ It's a tool used to install Android software updates from recovery, official TWR
 
 ## Flashing Instructions (Using Odin)
 
-1. Download Odin [here](https://samsungodin.com/download/Odin3_v3.12.3.zip). and install Samsung USB drivers.
+1. Download Odin [here](https://samsungodin.com/download/Odin3_v3.12.3.zip). and install Samsung USB drivers [here](https://developer.samsung.com/SDP/file/65386e3a-909e-4da5-86d2-7ded21d84b79).
 2. **Power off your tablet**.
 3. Boot into **Download Mode**:
    - Hold **Power + Volume Down + Home** until you see the warning screen.
