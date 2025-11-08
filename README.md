@@ -3,23 +3,20 @@
 This is an **unofficial build of TWRP (Team Win Recovery Project)** for the **Samsung Galaxy Tab Pro 8.4 (Wi-Fi, model SM-T320)**.  
 It was tested and confirmed working on LineageOS 18.1 and Android 11-based ROMs.
 
----
 
 ## Disclaimer
 This recovery is **unofficial** and provided as-is.  
 I am not responsible for any damage, data loss, or boot issues that may occur.  
 Flash it at your own risk.
 
----
 
-## 🔍 What does "FOTA" mean?
+## What does "FOTA" mean?
 
 **FOTA** stands for *Firmware Over-The-Air*. 
 It's a tool used to install Android software updates from recovery, official TWRP doesn't include FOTA.
 
----
 
-## 🧭 Flashing Instructions (Using Odin)
+## Flashing Instructions (Using Odin)
 
 1. **Download Odin** and install Samsung USB drivers.
 2. **Power off your tablet**.
@@ -36,16 +33,7 @@ It's a tool used to install Android software updates from recovery, official TWR
    - Hold **Power + Volume Up + Home** immediately after flashing.
 9. TWRP should appear!
 
----
-
-## 🧰 Notes
-- If TWRP doesn’t stick (gets replaced by stock recovery), disable “Auto Reboot” in Odin and reboot manually into recovery right after flashing.
-- Once TWRP boots, you can optionally install **Magisk** to gain root access.
-- Compatible with both stock and LineageOS-based ROMs.
-
----
-
-## 🙏 Credits
+## Credits
 - **Team Win Recovery Project (TWRP)**
 - **LineageOS Community**
 - Device testing by **@CreeperGuy0842**
