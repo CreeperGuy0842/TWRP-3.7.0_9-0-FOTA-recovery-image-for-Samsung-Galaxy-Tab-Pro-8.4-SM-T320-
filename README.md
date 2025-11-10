@@ -1,7 +1,6 @@
 # Unofficial TWRP for Samsung Galaxy Tab Pro 8.4 (SM-T320)
 
 This is an **unofficial build of TWRP (Team Win Recovery Project)** for the **Samsung Galaxy Tab Pro 8.4 (Wi-Fi, model SM-T320)**.  
-It was tested and confirmed working on LineageOS 18.1 and Android 11-based ROMs.
 
 
 ## Disclaimer
